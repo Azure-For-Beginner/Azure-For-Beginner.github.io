@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "쉽게 배우는 Web App 2 : Web Application를 만들어 보자!"
-categories: Web Application
+featimg: webapp-logo.png
+categories: [Web Application]
 tag: [webapp]
 ---
 
