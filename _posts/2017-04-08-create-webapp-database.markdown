@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "쉽게 배우는 Web App 4 : Web App에 Database를 연결해보자!"
-featimg: webapp-logo.png
+featimg: azure-logo.jpg
 categories: [Web Application]
 tag: [webapp]
 ---
