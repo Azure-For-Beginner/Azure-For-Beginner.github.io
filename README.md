@@ -15,6 +15,11 @@
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Haroopad](http://pad.haroopress.com/)
 
+## Commit Rule
+* 다음과 같이 접두사를 붙이고 Commit를 할 것
+* git commit -m "<접두사>: <날짜> 내용
+* 추가 add, 수정 mod, 제거 del
+
 ## 포스팅에 사용하면서 주로 사용하는 언어
 * [Node.js](https://github.com/Azure-For-Beginner/azure-webapp-sample-code/tree/node.js)
 * [Python](https://github.com/Azure-For-Beginner/azure-webapp-sample-code/tree/python)
