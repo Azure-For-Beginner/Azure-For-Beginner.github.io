@@ -9,27 +9,27 @@ tag: [webapp]
 1. 새로만들기를 클릭합니다.
 ![그림](https://azureforbeginner.blob.core.windows.net/images/login_success.png)
 2. `Database -> SQL Database`를 클릭합니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/webapp-database.PNG)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp-database.PNG)
 3. 다음과 같이 입력하고 데이터베이스를 생성합니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/webapp-create-database.png)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp-create-database.png)
 4. 완성되면 다음과 같이 나옵니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/webapp-success-database.png)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp-success-database.png)
 5. 이제 `Visual Studo Professional 2017`을 이용해 데이터를 넣어보겠습니다.
 6. `Visual Studio`를 실행시키고 Azure Credit계정으로 로그인 합니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/login.PNG)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/login.PNG)
 7. 로그인을 한 뒤 `보기 -> SQL Server 개체 탐색기`를 클릭합니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/server-exploer.png)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/server-exploer.png)
 8. 오른쪽에 개체 탐색기 창이 열리면 SQL Server에서 오른쪽을 클릭해서 SQL Server 추가를 클릭합니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/server-exploer2.png)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/server-exploer2.png)
 9. 연결창이 나오면 서버 이름과 사용자 이름, 암호를 입력합니다. Azure Potal에서 입력했던 값과 같습니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/server-login.PNG)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/server-login.PNG)
 10. 데이터베이스를 새로 만들면 접속할 수 있는 IP를 설정해야 하는데 Visual Studio에서는 자동으로 추가해줍니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/server-role.PNG)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/server-role.PNG)
 11. 그리고 새롭게 테이블을 만들어 봅시다. 테이블에서 오른쪽을 클릭해 새 테이블 추가를 클릭합니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/table-add.png)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/table-add.png)
 12. SQL Query 입력이 편하면 밑에서 입력하면 되고 디자인에서 간편하게 클릭 몇 번으로 Query를 만들 수 있습니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/create-table.PNG)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/create-table.PNG)
 13. 그리고 업데이트를 누르면 서버에 업데이트가 됩니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/script-create.PNG)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/script-create.PNG)
 14. 만든 테이블에서 오른쪽을 누르고 데이터 보기를 누르면 지금까지 입력된 데이터를 볼 수 있고 데이터를 추가 및 삭제를 할 수 있습니다.
-![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/webapp/database/table-data-view.png)
+![그림](https://github.com/Azure-For-Beginner/Azure-For-Beginner.github.io/blob/master/img/table-data-view.png)
