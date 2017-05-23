@@ -60,3 +60,6 @@ tag: [webapp]
     ```
 6. 다음과 같은 결과를 볼 수 있다.
 ![그림](/img/webapp/cognitive/result.png)
+
+# Source Code
+* [https://github.com/Azure-For-Beginner/azure-webapp-sample-code/tree/cognitive](https://github.com/Azure-For-Beginner/azure-webapp-sample-code/tree/cognitive)
